@@ -1,0 +1,26 @@
+body{
+    background-color: #999999;
+    color:black;
+}
+table{
+    cell:spacing 2pt;
+    margin-left: auto;
+    margin-right: auto;
+    width: 670px;
+    background-color: white;
+}
+#belsö{
+    width: 650px;
+    height: 60pt;
+    background-color: #485808;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+#cai-lun{
+    border: 1pt solid black;
+    position: relative;
+    left: 50%;
+    right:50%;
+}
